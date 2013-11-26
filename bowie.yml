@@ -1,0 +1,8 @@
+---
+main: 'path/file.js'
+css: 'path/file.css'
+js:
+  - 'path/file1.js'
+  - 'path/file2.js'
+snippet_css: '<link rel="stylesheet" href="path/style.css">'
+foo: 'bar'
